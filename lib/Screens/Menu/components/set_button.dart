@@ -1,5 +1,3 @@
-
-//import 'package:asistentetaller/Screens/Pricing/pricing.dart'; Reemplazar o quitar
 import 'package:flutter/material.dart';
 import 'package:asistentetaller/Screens/Menu/components/rounded_button.dart';
 
@@ -18,21 +16,13 @@ class SetButton extends StatelessWidget {
                 color: Colors.black,
                 textColor: Colors.white,
                 press: () {
-                   /*Navigator.push(
-                    context,
-                    new MaterialPageRoute(
-                      builder: (context) {
-                       // return Pricing(); //Reemplazar
-                      },
-                    ),
-                  );*/
                 },
               ),
             ],
           ),
           Column(mainAxisAlignment: MainAxisAlignment.center, children: <Widget>[
             RoundedButton(
-              text: "INGRESO AUTOMOVIL",
+              text: "VENTA REPUESTO",
               color: Colors.orange,
               textColor: Colors.black,
               press: () {

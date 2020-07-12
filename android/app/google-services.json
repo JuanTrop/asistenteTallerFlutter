@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "565424700098",
+    "firebase_url": "https://workshopassist-a4988.firebaseio.com",
+    "project_id": "workshopassist-a4988",
+    "storage_bucket": "workshopassist-a4988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565424700098:android:6d24aa59eb3e901786195b",
+        "android_client_info": {
+          "package_name": "com.example.asistentetaller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565424700098-gc7f8u17vt3tvr2n37ri50leksj9obo3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Nr970u88te5o4KzSTwV7fMWJpPmWqUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565424700098-gc7f8u17vt3tvr2n37ri50leksj9obo3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

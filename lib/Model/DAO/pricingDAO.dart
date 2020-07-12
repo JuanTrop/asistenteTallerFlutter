@@ -1,7 +1,7 @@
 
 
 class PricingDAO {
- void insert(){}
+ void create(){}
  void update(){}
  void delete(){}
 }

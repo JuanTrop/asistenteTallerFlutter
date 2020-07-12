@@ -1,4 +1,4 @@
-/*import 'package:asistentetaller/Model/DBO/autopartDBO.dart'; Posiblemente eliminar
+import 'package:asistentetaller/Model/DBO/autopartDBO.dart';
 import 'package:asistentetaller/Model/autopart.dart';
 import 'package:flutter/material.dart';
 import 'package:flappy_search_bar/flappy_search_bar.dart';
@@ -51,10 +51,9 @@ class _BodyPricing extends State<BodyPricing> {
               onSearch: getAutoParts,
               searchBarController: _searchBarController,
               onItemFound: _onItemFound() ,
-              placeHolder: Text("BUSCA TU ITEM"),
             )
           ),
       ],)
     );
   }
-}*/
+}
